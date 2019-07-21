@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using MathLib;
 
 namespace test
 {
@@ -28,9 +29,8 @@ namespace test
             a = Convert.ToDouble(textBoxA.Text);
             b = Convert.ToDouble(textBoxB.Text);
             x = Convert.ToDouble(textBoxX.Text);
-            c = 2.4 * MathLib.Class1.MOD((MathLib.Class1.SCR(x, 2) + b) / a) +
-                (a - b) * MathLib.Class1.SCR(MathLib.Class1.SIN(a - b), 2) +
-                MathLib.Class1.SCR(10, -2) * (x - b);
+            c = Class1.RiV(a, b, x);
+
             textBoxResult.Text = Convert.ToString(c);
                 
         }

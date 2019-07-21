@@ -11,3 +11,13 @@ D:\Andrey\проект1\summ1\test\obj\Debug\test.csproj.CoreCompileInputs.cache
 D:\Andrey\проект1\summ1\test\obj\Debug\test.csproj.CopyComplete
 D:\Andrey\проект1\summ1\test\obj\Debug\test.exe
 D:\Andrey\проект1\summ1\test\obj\Debug\test.pdb
+D:\Andrey\проект1\summ2\test\bin\Debug\test.exe.config
+D:\Andrey\проект1\summ2\test\bin\Debug\test.exe
+D:\Andrey\проект1\summ2\test\bin\Debug\test.pdb
+D:\Andrey\проект1\summ2\test\obj\Debug\test.csprojAssemblyReference.cache
+D:\Andrey\проект1\summ2\test\obj\Debug\test.Form1.resources
+D:\Andrey\проект1\summ2\test\obj\Debug\test.Properties.Resources.resources
+D:\Andrey\проект1\summ2\test\obj\Debug\test.csproj.GenerateResource.cache
+D:\Andrey\проект1\summ2\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+D:\Andrey\проект1\summ2\test\obj\Debug\test.exe
+D:\Andrey\проект1\summ2\test\obj\Debug\test.pdb

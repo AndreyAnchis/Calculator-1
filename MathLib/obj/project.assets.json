@@ -186,11 +186,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Andrey\\проект1\\MathLib\\MathLib.csproj",
+      "projectUniqueName": "D:\\Andrey\\реп\\MathLib\\MathLib.csproj",
       "projectName": "MathLib",
-      "projectPath": "D:\\Andrey\\проект1\\MathLib\\MathLib.csproj",
+      "projectPath": "D:\\Andrey\\реп\\MathLib\\MathLib.csproj",
       "packagesPath": "C:\\Users\\Сашко\\.nuget\\packages\\",
-      "outputPath": "D:\\Andrey\\проект1\\MathLib\\obj\\",
+      "outputPath": "D:\\Andrey\\реп\\MathLib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

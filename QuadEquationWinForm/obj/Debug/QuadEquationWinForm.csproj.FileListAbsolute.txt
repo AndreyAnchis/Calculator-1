@@ -1,0 +1,12 @@
+D:\Andrey\проект\квадратное уравнение\bin\Debug\WindowsFormsApp1.exe.config
+D:\Andrey\проект\квадратное уравнение\bin\Debug\WindowsFormsApp1.exe
+D:\Andrey\проект\квадратное уравнение\bin\Debug\WindowsFormsApp1.pdb
+D:\Andrey\проект\квадратное уравнение\bin\Debug\MathLib.pdb
+D:\Andrey\проект\квадратное уравнение\obj\Debug\QuadEquationWinForm.csprojAssemblyReference.cache
+D:\Andrey\проект\квадратное уравнение\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Andrey\проект\квадратное уравнение\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Andrey\проект\квадратное уравнение\obj\Debug\QuadEquationWinForm.csproj.GenerateResource.cache
+D:\Andrey\проект\квадратное уравнение\obj\Debug\QuadEquationWinForm.csproj.CoreCompileInputs.cache
+D:\Andrey\проект\квадратное уравнение\obj\Debug\QuadEquationWinForm.csproj.CopyComplete
+D:\Andrey\проект\квадратное уравнение\obj\Debug\WindowsFormsApp1.exe
+D:\Andrey\проект\квадратное уравнение\obj\Debug\WindowsFormsApp1.pdb

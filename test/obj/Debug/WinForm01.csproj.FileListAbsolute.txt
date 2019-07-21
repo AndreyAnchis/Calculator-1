@@ -1,0 +1,10 @@
+D:\Andrey\конечній рез\test\bin\Debug\test.exe.config
+D:\Andrey\конечній рез\test\bin\Debug\test.exe
+D:\Andrey\конечній рез\test\bin\Debug\test.pdb
+D:\Andrey\конечній рез\test\obj\Debug\WinForm01.csprojAssemblyReference.cache
+D:\Andrey\конечній рез\test\obj\Debug\test.Form1.resources
+D:\Andrey\конечній рез\test\obj\Debug\test.Properties.Resources.resources
+D:\Andrey\конечній рез\test\obj\Debug\WinForm01.csproj.GenerateResource.cache
+D:\Andrey\конечній рез\test\obj\Debug\WinForm01.csproj.CoreCompileInputs.cache
+D:\Andrey\конечній рез\test\obj\Debug\test.exe
+D:\Andrey\конечній рез\test\obj\Debug\test.pdb
