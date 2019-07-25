@@ -1,0 +1,10 @@
+D:\Andrey\таблица\mass\bin\Debug\mass.exe.config
+D:\Andrey\таблица\mass\bin\Debug\mass.exe
+D:\Andrey\таблица\mass\bin\Debug\mass.pdb
+D:\Andrey\таблица\mass\obj\Debug\mass.csprojAssemblyReference.cache
+D:\Andrey\таблица\mass\obj\Debug\mass.Form1.resources
+D:\Andrey\таблица\mass\obj\Debug\mass.Properties.Resources.resources
+D:\Andrey\таблица\mass\obj\Debug\mass.csproj.GenerateResource.cache
+D:\Andrey\таблица\mass\obj\Debug\mass.csproj.CoreCompileInputs.cache
+D:\Andrey\таблица\mass\obj\Debug\mass.exe
+D:\Andrey\таблица\mass\obj\Debug\mass.pdb
